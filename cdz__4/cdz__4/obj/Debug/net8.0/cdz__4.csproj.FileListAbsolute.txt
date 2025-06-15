@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\cdz__4\cdz__4\bin\Debug\net8.0\cdz__4.exe
+C:\Users\USER\source\repos\cdz__4\cdz__4\bin\Debug\net8.0\cdz__4.deps.json
+C:\Users\USER\source\repos\cdz__4\cdz__4\bin\Debug\net8.0\cdz__4.runtimeconfig.json
+C:\Users\USER\source\repos\cdz__4\cdz__4\bin\Debug\net8.0\cdz__4.dll
+C:\Users\USER\source\repos\cdz__4\cdz__4\bin\Debug\net8.0\cdz__4.pdb
+C:\Users\USER\source\repos\cdz__4\cdz__4\obj\Debug\net8.0\cdz__4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\cdz__4\cdz__4\obj\Debug\net8.0\cdz__4.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\cdz__4\cdz__4\obj\Debug\net8.0\cdz__4.AssemblyInfo.cs
+C:\Users\USER\source\repos\cdz__4\cdz__4\obj\Debug\net8.0\cdz__4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\cdz__4\cdz__4\obj\Debug\net8.0\cdz__4.dll
+C:\Users\USER\source\repos\cdz__4\cdz__4\obj\Debug\net8.0\refint\cdz__4.dll
+C:\Users\USER\source\repos\cdz__4\cdz__4\obj\Debug\net8.0\cdz__4.pdb
+C:\Users\USER\source\repos\cdz__4\cdz__4\obj\Debug\net8.0\cdz__4.genruntimeconfig.cache
+C:\Users\USER\source\repos\cdz__4\cdz__4\obj\Debug\net8.0\ref\cdz__4.dll
